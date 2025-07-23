@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @amiabasana
+- 👋 Hi, I’m Amisha Abasana
 - 👀 I’m interested in a full-stack developer
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning react and state management libraries.
+- 📫 abasanaamisha02@gmail.com
 
 <!---
 amiabasana/amiabasana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
