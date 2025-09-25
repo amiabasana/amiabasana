@@ -10,7 +10,7 @@ Building interactive, user-friendly web applications with clean code and modern 
 
 ## 📫 Contact
 - **Email:** abasanaamisha2001@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](linkedin.com/in/amisha-abasana)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/amisha-abasana/)  
 - **GitHub:** [github.com/yourusername](https://github.com/amiabasana)
 
 ⚡ Actively learning **React.js**, building projects, and exploring modern front-end best practices.
